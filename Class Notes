@@ -1,0 +1,6 @@
+### Functions in R 
+%>% is a pipe operator
+it allows you to do sequential data manipulation steps
+alternatively, you can use |>
+
+tibble = tidyverse data frame
