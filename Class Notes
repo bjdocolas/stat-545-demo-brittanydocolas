@@ -4,3 +4,7 @@ it allows you to do sequential data manipulation steps
 alternatively, you can use |>
 
 tibble = tidyverse data frame
+
+lm() typically used for continuous variables (that theoretically go from -infinity to +infinity
+glm() generalized linear regression used for non-continous variables (i.e., categorical variables, counts, etc.)
+
